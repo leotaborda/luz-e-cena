@@ -1,10 +1,8 @@
 import React from "react";
 import styles from "./Tag.module.css";
 import classNames from "classnames";
+import type { Categoria, Censura } from "../../types";
 
-type Categoria = "2D" | "3D";
-
-type Censura = "Livre" | "10 Anos" | "12 Anos" | "14 Anos" | "16 Anos";
 
 interface TagProps {
   value: Categoria | Censura;
