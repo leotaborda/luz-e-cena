@@ -71,3 +71,11 @@
   font-weight: 400;
   font-size: var(--font-size-m);
 }
+
+.desenvolvimento p{
+  font-size: 1rem;
+}
+
+.desenvolvimento span{
+  font-weight: 600;
+}
