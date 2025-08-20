@@ -2,7 +2,7 @@
     "movies": [
         {
             "id": 1,
-            "src": "images/Cards filmes/Capa - Superman.png",
+            "src": "images/Cards filmes/Card - Superman.png",
             "alt": "Imagem do filme Superman",
             "titulo": "Superman",
             "categoria": "2D",
