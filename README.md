@@ -67,10 +67,6 @@ A estrutura do projeto segue as convenções padrão de um projeto React criado 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* para reportar bugs ou sugerir melhorias. *Pull requests* também são encorajados.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Agradecimentos
 
 Agradeço à Alura e ao instrutor Neilton Seguins pela oportunidade de aprendizado e desenvolvimento deste projeto.
